@@ -12,4 +12,4 @@ build/
 # IDE / editor files
 .vscode/
 *.log
-
+.env 
